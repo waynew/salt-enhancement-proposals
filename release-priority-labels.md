@@ -1,4 +1,4 @@
-- Feature Name: release-label-improvements
+- Feature Name: severity-label-improvements
 - Start Date: 2020-01-13
 - SEP Status: Draft
 - SEP PR: https://github.com/saltstack/salt-enhancement-proposals/pull/24
